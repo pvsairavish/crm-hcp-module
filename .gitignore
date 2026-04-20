@@ -1,0 +1,12 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/crm_hcp.db
+
+# Node
+frontend/node_modules/
+
+# Environment
+backend/.env
+frontend/.env
